@@ -37,14 +37,18 @@ Crie um arquivo .env na raiz do projeto com base no arquivo de exemplo .env.exam
 Rodando o Servidor de Desenvolvimento
 Inicie o servidor com o comando:
 
+```
 pnpm dev
+```
 
 O código será gerado na pasta dist.
 
 Rodando em Produção
 Depois de construir o projeto, execute o servidor em modo de produção:
 
+```
 pnpm run start:prod
+```
 
 ## Licença
 
